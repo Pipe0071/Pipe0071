@@ -1,8 +1,30 @@
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Felipe Jimenez</h1>
+<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> soy Felipe Jimenez</h1>
  
-<h3>A passionate full stack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> !!!</h3>
+<h3>soy un programador en formacion <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> !!!</h3>
+### 🚀 Expertise
 
+- Programming Languages: C++, C, Python
+- Web Development: Currently learning and exploring
+- Soft Skills: Excellent communication, collaboration, and public speaking
+
+### 💡 Interests
+
+I'm deeply interested in:
+
+- Building real-life projects that solve meaningful problems.
+- Exploring the fascinating field of AI and experimenting with different datasets and models.
+
+### 📚 Hobbies
+
+Apart from coding, I enjoy:
+
+- Writing and expressing my thoughts through words.
+- Reading books and expanding my knowledge.
+
+### 🌱 Future Goals
+
+My ultimate goal is to build a startup that positively impacts the lives of millions. I'm excited about the possibilities that lie ahead and eager to learn and grow on this journey.
 <p align="center">
 <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
 </p>
