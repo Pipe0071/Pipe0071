@@ -9,6 +9,8 @@
 <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
 </p>
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 ## My tech stack
 
 <p align="left"> 
@@ -69,3 +71,4 @@
     <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-yellow?logo=nginx&logoColor=white"/>
   </a>
 </p>
+
