@@ -2,29 +2,10 @@
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> soy Felipe Jimenez</h1>
  
 <h3>soy un programador en formacion <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> !!!</h3>
-### 🚀 Expertise
-
-- Programming Languages: C++, C, Python
-- Web Development: Currently learning and exploring
-- Soft Skills: Excellent communication, collaboration, and public speaking
-
-### 💡 Interests
-
-I'm deeply interested in:
-
-- Building real-life projects that solve meaningful problems.
-- Exploring the fascinating field of AI and experimenting with different datasets and models.
-
-### 📚 Hobbies
-
-Apart from coding, I enjoy:
-
-- Writing and expressing my thoughts through words.
-- Reading books and expanding my knowledge.
-
-### 🌱 Future Goals
-
-My ultimate goal is to build a startup that positively impacts the lives of millions. I'm excited about the possibilities that lie ahead and eager to learn and grow on this journey.
+🏫 Soy Tecnico en Rescursos humanos y Aprendiz de Analisis en Desarrollo de Software (ADSO) en el SENA.
+🧑‍🎓 Estoy enfocado en reforzar mi conocimiento en el Analisis y Desarrollo del Software.
+🤓 Me interesa adquirir nuevos conocimientos.
+🫂 Poseo un buen trabajo en equipo y empatía hacia mis compañeros de trabajo.
 <p align="center">
 <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
 </p>
