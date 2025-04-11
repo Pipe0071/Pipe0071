@@ -3,13 +3,25 @@
  
 <h3>soy un programador en formacion <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> !!!</h3>
 
-###🏫 Soy Aprendiz de Analisis en Desarrollo de Software (ADSO) en el SENA.
+·🎓 Aprendiz de Análisis y Desarrollo de Software (ADSO) en el SENA
 
-###🧑‍🎓 Estoy enfocado en reforzar mi conocimiento en el Analisis y Desarrollo del Software.
+·Formándome en Análisis y Desarrollo de Software
 
-###🤓 Me interesa adquirir nuevos conocimientos.
 
-###🫂 Poseo un buen trabajo en equipo y empatía hacia mis compañeros de trabajo.
+·📌 Enfocado en fortalecer mis habilidades en análisis, diseño y desarrollo de soluciones de software.
+
+·Comprometido con mejorar mis competencias en desarrollo y análisis de software.
+
+
+·🚀 Apasionado por aprender constantemente y adquirir nuevos conocimientos que me permitan crecer profesional y personalmente.
+
+·Motivado por el aprendizaje continuo y el crecimiento profesional.
+
+
+·🤝 Cuento con habilidades para el trabajo en equipo, así como una actitud empática y colaborativa con mis compañeros.
+
+·Valoro la colaboración y mantengo buenas relaciones con mis compañeros de trabajo.
+
 
 <p align="center">
 <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
